@@ -29,9 +29,9 @@ EFI for CHUWI-CoreBook-X-7267U with OpenCore 0.7.7 bootloader
 - [x] Power Key
 - [x] NVRAM
 
-### What Not Work:
+### What Not Work well:
 
-- [ ] Brightness Keys
+- [ ] Brightness Keys (long press work)
 
 ### BIOS Settings:
 
