@@ -6,9 +6,9 @@ EFI for CHUWI-CoreBook-X-7267U with OpenCore 0.7.7 bootloader
 | Component        | Specifications                         |
 | ---------------- | ---------------------------------------|
 | CPU              | Intel® Core™ i5-7267U                  |
-| iGPU             | Intel® Iris Plus Graphics 650          |
-| RAM              | 16GB DDR4 2133MHz                      |
-| NVMe             | WD SN520 NVMe 512GB                    |
+| GPU              | Intel® Iris Plus Graphics 650          |
+| Memory           | 16GB DDR4 2133MHz                      |
+| SSD              | WD SN520 NVMe 512GB                    |
 | Monitor          | AUO 14" 2160*1440                      |
 | Audio            | Realtek ALC269                         |
 | WiFi & Bluetooth | Intel Dual Band Wireless-AC 7265       |
