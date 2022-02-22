@@ -37,6 +37,11 @@ EFI for CHUWI-CoreBook-X-7267U with OpenCore 0.7.8 bootloader
 
 * Flash the mod BIOS or set DVMT to 64M
 
+## Donation
+If you found my project is helpful, you can offer me a cup of coffee.  
+<img src="http://code666.tk/static/wx.jpg" width = "162" height = "190" alt="WeChat Pay" align=center />
+<img src="http://code666.tk/static/zfb.jpg" width = "150" height = "190" alt="Alipay" align=center />
+
 ## Credits
 
 - [Apple](https://apple.com) for macOS.
