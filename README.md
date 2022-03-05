@@ -1,10 +1,12 @@
 # CHUWI-CoreBook-X-7267U-Hackintosh
 EFI for CHUWI-CoreBook-X-7267U with OpenCore 0.7.8 bootloader
 
+点击链接加入[Funhouse F10 MPro & 驰为 CoreBook X 2022款 黑苹果交流群](https://jq.qq.com/?_wv=1027&k=v9za1jFA)
+
 ### Computer Spec:
 
 | Component        | Specifications                         |
-| ---------------- | ---------------------------------------|
+| ---------------- | -------------------------------------- |
 | CPU              | Intel® Core™ i5-7267U                  |
 | GPU              | Intel® Iris Plus Graphics 650          |
 | Memory           | 16GB DDR4 2133MHz                      |
