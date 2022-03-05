@@ -54,8 +54,6 @@
 				<dict>
 					<key>HS02</key>
 					<dict>
-						<key>Comment</key>
-						<string>R20</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>name</key>
